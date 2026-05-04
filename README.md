@@ -1,5 +1,3 @@
----
-
 # Olist E-Commerce — Business Case Study
 
 A consulting-style business case study built on 

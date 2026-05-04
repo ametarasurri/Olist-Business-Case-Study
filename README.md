@@ -10,7 +10,7 @@ revenue impact of approximately $5.9M annually.
 ---
 
 ## 📄 Read the Case Study
-[Olist_Business_Case_Study.pdf]([./Report%20PDF](https://github.com/ametarasurri/Olist-Business-Case-Study/blob/main/Report%20PDF/Olist%20Business%20Case%20Study.pdf))
+[Olist Business Case Study.pdf](https://github.com/ametarasurri/Olist-Business-Case-Study/blob/main/Report%20PDF/Olist%20Business%20Case%20Study.pdf)
 
 ---
 

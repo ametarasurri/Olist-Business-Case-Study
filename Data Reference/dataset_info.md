@@ -18,6 +18,3 @@
 - product_category_name_translation.csv — 71 rows
 
 ---
-
-Find the full interactive report built on this data here:
-https://github.com/ametarasurri/Ecommerce-business-performance-report

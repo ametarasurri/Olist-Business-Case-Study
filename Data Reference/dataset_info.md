@@ -1,8 +1,12 @@
 # Dataset Reference
 
-**Source:** Brazilian E-Commerce Public Dataset by Olist
+---
+
+**Source:** Brazilian E-Commerce Dataset by Olist
 **Platform:** Kaggle (public dataset)
 **Link:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
 
 ## Files Used:
 - olist_orders_dataset.csv — 99,441 rows
@@ -13,5 +17,7 @@
 - olist_products_dataset.csv — 32,951 rows
 - product_category_name_translation.csv — 71 rows
 
-Full dashboard built on this data:
-https://github.com/ametarasurri/Ecommerce-business-performance-report/blob/main/Report/Dashboard%20preview%202.pdf
+---
+
+Find the full interactive report built on this data here:
+https://github.com/ametarasurri/Ecommerce-business-performance-report

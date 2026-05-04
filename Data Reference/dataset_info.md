@@ -14,4 +14,4 @@
 - product_category_name_translation.csv — 71 rows
 
 Full dashboard built on this data:
-https://github.com/ametarasurri/olist-ecommerce-business-report
+https://github.com/ametarasurri/Ecommerce-business-performance-report/blob/main/Report/Dashboard%20preview%202.pdf
